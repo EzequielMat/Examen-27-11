@@ -84,6 +84,7 @@ header nav li:hover {
 }
 
 .boton {
+    font-weight: bold;
     border: none;
     border-radius: 20px;
     padding: 10px 30px;
@@ -107,7 +108,12 @@ header nav li:hover {
     top: 100px;
 }
 
-section div h4, h2, h5 {
+section div h4, h2 {
+    color: white;
+    font-weight: bold;
+}
+
+section div h5 {
     color: white;
 }
 
